@@ -39,7 +39,7 @@ class Cat extends Animal {
     this.legs = 4;
     this.actionText = "Meoow";
     this.actionSoundName = "meow";
-    this.src = "gin.jpg";
+    this.src = "cat.jpg";
   }
 }
 
